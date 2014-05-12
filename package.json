@@ -1,0 +1,24 @@
+{
+  "name": "ja3k",
+  "version": "0.0.1",
+  "author": "Calvin Chan",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "express3-handlebars": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-facebook": "*",
+    "passport-facebook-canvas": "0.0.3",
+    "passport-twitter": "*",
+    "dotenv": "*",
+    "fbgraph": "*",
+    "twit": "*"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
